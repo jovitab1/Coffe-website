@@ -847,12 +847,12 @@ button {
         display: none;
     }
 
-    .nav__list {
+ 
+    .nav__list{
         padding-top: 0;
         flex-direction: row;
         column-gap: 4rem;
     }
-
     .nav__link {
         position: relative;
         font-size: var(--normal-font-size);
